@@ -1,0 +1,7 @@
+[
+  {
+    "SSID": "YourNetwork",
+    "BSSID": "aa:bb:cc:dd:ee:ff",
+    "security": "WPA2"
+  }
+]
