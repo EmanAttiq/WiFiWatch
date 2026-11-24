@@ -1,0 +1,10 @@
+venv/
+__pycache__/
+*.pyc
+baseline.json
+*.cap
+*.pcap
+*.csv
+*.save
+wifiwatch_report.txt
+wifiwatch_report.json
