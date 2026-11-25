@@ -2,27 +2,27 @@
 
 ========== ACCESS POINTS ==========
 
-SSID: Fastnet fiber n789u
+SSID: Network 1
 BSSID: [REDACTED-MAC]
 Channel: 8
 Signal: -56
 
-SSID: Muneeb
+SSID: Network 2
 BSSID: [REDACTED-MAC]
 Channel: 10
 Signal: -60
 
-SSID: Ustaad
+SSID: Network 3
 BSSID: [REDACTED-MAC]
 Channel: 10
 Signal: -72
 
-SSID: StormFiber--62B6-2.4G
+SSID: Network 4
 BSSID: [REDACTED-MAC]
 Channel: 12
 Signal: -76
 
-SSID: Fastnet Fiber 74
+SSID: Network 5
 BSSID: [REDACTED-MAC]
 Channel: 10
 Signal: -80
