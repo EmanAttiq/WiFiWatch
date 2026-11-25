@@ -1,0 +1,1 @@
+"""WiFiWatch modular project."""
