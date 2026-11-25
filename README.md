@@ -60,6 +60,9 @@ Clone the repository:
 git clone https://github.com/EmanAttiq/WiFiWatch.git
 cd WiFiWatch
 ```
+Install the required dependencies:
+
+pip install -r requirements.txt
 
 ## Usage
 
