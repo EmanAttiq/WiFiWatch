@@ -5,3 +5,7 @@
     "security": "WPA2"
   }
 ]
+
+This JSON serves as an example trusted access point baseline for WiFiWatch.
+It allows users to specify their legitimate Wi-Fi network's SSID, BSSID, and security type so the tool can compare discovered 
+access points against the trusted baseline and identify possible rogue or impersonating access points.
